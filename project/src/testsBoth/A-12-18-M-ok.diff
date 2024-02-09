@@ -1,0 +1,41 @@
+*** testsBoth/A-12-18-M-ok.out	2022-11-06 22:59:06.695944000 +0000
+--- testsBoth/A-12-18-M-ok.outhyp	2022-11-07 12:56:24.175741911 +0000
+***************
+*** 38,45 ****
+  5 - Retirar amigo
+  6 - Pagamento
+  7 - Consultar saldo
+- 8 - Enviar comunicação de texto
+- 9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+  Escolha uma opção: 11
+--- 38,43 ----
+***************
+*** 52,59 ****
+  5 - Retirar amigo
+  6 - Pagamento
+  7 - Consultar saldo
+- 8 - Enviar comunicação de texto
+- 9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+  Escolha uma opção: 0
+--- 50,55 ----
+***************
+*** 74,80 ****
+  FANCY|969011|cli001|IDLE|0|0
+  FANCY|969012|cli001|OFF|0|0
+  FANCY|969013|cli001|SILENCE|0|0
+! FANCY|969014|cli002|IDLE|0|0
+  FANCY|969015|cli003|IDLE|0|0
+  GESTÃO DE TERMINAIS
+  1 - Mostrar todos os terminais
+--- 70,76 ----
+  FANCY|969011|cli001|IDLE|0|0
+  FANCY|969012|cli001|OFF|0|0
+  FANCY|969013|cli001|SILENCE|0|0
+! FANCY|969014|cli002|BUSY|0|0
+  FANCY|969015|cli003|IDLE|0|0
+  GESTÃO DE TERMINAIS
+  1 - Mostrar todos os terminais
